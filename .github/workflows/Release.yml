@@ -4,6 +4,7 @@ on:
   push:  
     tags:  
       - 'v*' # 匹配以'v'开头的tag
+    branches: [dev]
 
 permissions:
   contents: write  # 给工作流写入仓库内容的权限
