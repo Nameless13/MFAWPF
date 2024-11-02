@@ -551,7 +551,7 @@ public partial class MainWindow
             AddAfterTaskOption(s2);
 
             AddStartSettingOption(s2);
-            // AddSwitchConfiguration(s2);
+             AddSwitchConfiguration(s2);
             //AddStartExtrasOption(s2);
             AddStartEmulatorOption(s2);
             AddRememberAdbOption(s2);
